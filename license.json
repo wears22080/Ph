@@ -1,13 +1,12 @@
 {
     "licenses": [
         {
-            "serial": "Z054BMRMS",
-            "expiration_date": "2024-12-31"
+            "name": "Robert_Poloskyn",
+            "server": "185.169.134.173:7777"
         },
         {
-            "serial": "0987654321",
-            "expiration_date": "2024-11-30"
+            "name": "ДругойИгрок",
+            "server": "---"
         }
     ]
 }
-

@@ -4,11 +4,6 @@
             "name": "Robert_Poloskyn",
             "server": "185.169.134.173:7777"
             "expiryDate": "2024-12-31T23:59:59"
-        },
-        {
-            "name": "ДругойИгрок",
-            "server": "another.server:7777",
-            "expiryDate": "2025-01-31T23:59:59"
         }
     ]
 }
